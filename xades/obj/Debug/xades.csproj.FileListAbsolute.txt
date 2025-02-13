@@ -1,0 +1,7 @@
+C:\Users\Arab Soft\Documents\GitHub\CEF\xades\xades\xades\bin\Debug\xades.exe.config
+C:\Users\Arab Soft\Documents\GitHub\CEF\xades\xades\xades\bin\Debug\xades.exe
+C:\Users\Arab Soft\Documents\GitHub\CEF\xades\xades\xades\bin\Debug\xades.pdb
+C:\Users\Arab Soft\Documents\GitHub\CEF\xades\xades\xades\obj\Debug\xades.csproj.AssemblyReference.cache
+C:\Users\Arab Soft\Documents\GitHub\CEF\xades\xades\xades\obj\Debug\xades.csproj.CoreCompileInputs.cache
+C:\Users\Arab Soft\Documents\GitHub\CEF\xades\xades\xades\obj\Debug\xades.exe
+C:\Users\Arab Soft\Documents\GitHub\CEF\xades\xades\xades\obj\Debug\xades.pdb

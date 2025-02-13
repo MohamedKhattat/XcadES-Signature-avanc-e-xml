@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Arab Soft\\Documents\\GitHub\\CEF\\xades\\xades\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A250823-58DB-47F6-8C82-3E2BA6231EA5}|xades\\xades.csproj|c:\\users\\arab soft\\documents\\github\\cef\\xades\\xades\\xades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A250823-58DB-47F6-8C82-3E2BA6231EA5}|xades\\xades.csproj|solutionrelative:xades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A250823-58DB-47F6-8C82-3E2BA6231EA5}|xades\\xades.csproj|c:\\users\\arab soft\\documents\\github\\cef\\xades\\xades\\xades\\xades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A250823-58DB-47F6-8C82-3E2BA6231EA5}|xades\\xades.csproj|solutionrelative:xades\\xades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 252,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Arab Soft\\Documents\\GitHub\\CEF\\xades\\xades\\xades\\Program.cs",
+              "RelativeDocumentMoniker": "xades\\Program.cs",
+              "ToolTip": "C:\\Users\\Arab Soft\\Documents\\GitHub\\CEF\\xades\\xades\\xades\\Program.cs",
+              "RelativeToolTip": "xades\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAkwDkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T08:30:03.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "XAdES.cs",
+              "DocumentMoniker": "C:\\Users\\Arab Soft\\Documents\\GitHub\\CEF\\xades\\xades\\xades\\XAdES.cs",
+              "RelativeDocumentMoniker": "xades\\XAdES.cs",
+              "ToolTip": "C:\\Users\\Arab Soft\\Documents\\GitHub\\CEF\\xades\\xades\\xades\\XAdES.cs",
+              "RelativeToolTip": "xades\\XAdES.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAqwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T08:29:55.301Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
